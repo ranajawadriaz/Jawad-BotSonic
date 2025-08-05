@@ -1,0 +1,55 @@
+# Core FastAPI dependencies
+fastapi==0.104.1
+uvicorn==0.24.0
+python-multipart==0.0.6
+
+# Database dependencies
+sqlalchemy==2.0.23
+psycopg2-binary==2.9.9
+alembic==1.13.1
+
+# Authentication dependencies
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+python-multipart==0.0.6
+
+# RAG and AI dependencies
+groq>=0.11.0
+langchain==0.1.0
+langchain-community==0.0.10
+langchain-huggingface>=0.0.3
+chromadb==0.4.18
+sentence-transformers==2.2.2
+
+# Document processing
+PyPDF2==3.0.1
+pandas==2.1.4
+openpyxl==3.1.2
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+html2text>=2020.1.16
+
+# Web scraping
+requests>=2.31.0
+selenium>=4.15.0
+
+# ML dependencies
+transformers
+onnxruntime
+nltk>=3.8.1
+
+# Utility dependencies
+python-dotenv==1.0.0
+jinja2==3.1.2
+
+# Validation dependencies
+pydantic==2.5.0
+email-validator==2.1.0
+
+# CORS middleware
+
+pydantic_settings
+fastapi
+PyPDF2
+langchain
+groq

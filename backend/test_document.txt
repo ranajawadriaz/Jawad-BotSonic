@@ -1,0 +1,16 @@
+Machine Learning and Artificial Intelligence
+
+Machine learning is a subset of artificial intelligence that enables computers to learn and make decisions without being explicitly programmed. 
+
+Key concepts in machine learning include:
+
+1. Supervised Learning: Training models on labeled data to predict outcomes for new data.
+2. Unsupervised Learning: Finding patterns in data without labeled examples.
+3. Deep Learning: Using neural networks with multiple layers to solve complex problems.
+4. Natural Language Processing: Teaching computers to understand and generate human language.
+
+Vector embeddings are a crucial component of modern AI systems. They convert text, images, or other data into numerical representations that capture semantic meaning. This allows machines to understand relationships between concepts.
+
+ChromaDB is a vector database that excels at storing and searching these embeddings efficiently. It enables semantic search capabilities where you can find similar content based on meaning rather than just keyword matching.
+
+RAG (Retrieval-Augmented Generation) systems combine the power of vector search with large language models to provide accurate, context-aware responses based on your specific data.

@@ -1,0 +1,11 @@
+{
+    "first_name": "Test",
+    "last_name": "User",
+    "work_email": "test@example.com", 
+    "company_name": "Test Company",
+    "job_title": "Developer",
+    "country": "USA",
+    "monthly_queries": "1000",
+    "budget": "10000",
+    "additional_notes": "Testing ChromaDB RAG with vector embeddings"
+}
